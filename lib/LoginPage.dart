@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 import 'package:lottie/lottie.dart';
+
+import 'MainPage.dart';
 
 class LoginPage extends StatelessWidget {
   @override
@@ -96,7 +99,7 @@ class LoginPage extends StatelessWidget {
                   height: 50,
                   child: ElevatedButton(
                     onPressed: () {
-
+                      Get.to(MainPage());
                     },
                     child: Text(
                       "Login"

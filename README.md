@@ -20,3 +20,11 @@ samples, guidance on mobile development, and a full API reference.
 - Inspired ui from https://www.behance.net/gallery/69579243/Finance-Mobile-App-UI-UX?tracking_source=search_projects_views%7Cfinance%20app
 - All animation from https://lottiefiles.com/
 - All icon from https://www.iconfinder.com/
+
+## Next Update :
+- State management using getx
+- finance chart feature
+
+## Demo :
+Click link below to see this mobile app demo
+https://www.linkedin.com/posts/jhony-pranata-090594_mobile-application-demo-using-flutter-github-activity-6820396995094683648-JmYu

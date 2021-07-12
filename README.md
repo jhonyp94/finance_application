@@ -19,3 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 
 - Inspired ui from https://www.behance.net/gallery/69579243/Finance-Mobile-App-UI-UX?tracking_source=search_projects_views%7Cfinance%20app
 - All animation from https://lottiefiles.com/
+- All icon from https://www.iconfinder.com/

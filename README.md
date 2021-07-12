@@ -1,6 +1,6 @@
-# financeapplication
+# Finance Application
 
-A new Flutter application.
+Finance Application using flutter
 
 ## Getting Started
 
@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## License
+
+- Inspired ui from https://www.behance.net/gallery/69579243/Finance-Mobile-App-UI-UX?tracking_source=search_projects_views%7Cfinance%20app
+- All animation from https://lottiefiles.com/
+- All icon from https://www.iconfinder.com/

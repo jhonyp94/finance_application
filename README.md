@@ -22,6 +22,7 @@ samples, guidance on mobile development, and a full API reference.
 - All icon from https://www.iconfinder.com/
 
 ## Next Update :
+- Clean code
 - State management using getx
 - finance chart feature
 
